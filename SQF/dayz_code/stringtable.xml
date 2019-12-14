@@ -16903,18 +16903,16 @@
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITANNIE_DESC">
 			<English>Bandit wrap blue top with brown pants.</English>
-			<Russian>Бандитский наряд с синим верхом и коричневыми брюками.</Russian>
+			<Russian>Бандитский костюм с синим верхом и коричневыми брюками.</Russian>
 			<German>Banditen Outfit mit blauem Top und brauner Hose.</German>
-<!--			<Russian>Бандитский костюм с синим верхом и коричневыми брюками.</Russian>	-->
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITJANE">
 			<English>Bandit Jane</English>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITJANE_DESC">
 			<English>Bandit wrap grey top with brown camo pants.</English>
-			<Russian>Бандитский наряд с синим верхом и камуфляжными брюками.</Russian>
+			<Russian>Бандитский костюм с серым верхом и коричневыми камуфляжными брюками.</Russian>
 			<German>Banditen Outfit mit grauem Top und brauner Tarnhose.</German>
-<!--			<Russian>Бандитский костюм с серым верхом и коричневыми камуфляжными брюками.</Russian>	-->
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_JANE">
 			<English>Jane</English>
