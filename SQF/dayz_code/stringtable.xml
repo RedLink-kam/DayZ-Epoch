@@ -10223,11 +10223,11 @@
 		<Key ID="STR_DZ_WPN_L85A2_FL_NAME">
 			<English>L85A2 FL</English>
 			<German>L85A2 TL</German>
-					</Key>
+		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_MFL_NAME">
 			<English>L85A2 MFL</English>
 			<German>L85A2 MTL</German>
-					</Key>
+		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_SD_NAME">
 			<English>L85A2 SD</English>
 			<Russian>L85A2 ПБС</Russian>
@@ -18222,7 +18222,7 @@
 		</Key>			
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_AIRVEHICLES">
 			<English>Air Vehicles</English>
-			<Russian>Авиа Транскорт</Russian>
+			<Russian>Авиа Транспорт</Russian>
 			<German>Luftfahrzeuge</German>
 		</Key>	
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_GROUNDVEHICLES">
@@ -18503,7 +18503,7 @@
 		</Key>
 		<Key ID="str_actions_medical_painkillers_self">
 			<English>You have taken painkillers</English>
-			<Russian>Вы приняли обезболивающие</Russian>
+			<Russian>Вы приняли обезболивающее</Russian>
 		</Key>
 		<Key ID="str_actions_medical_painkillers_give">
 			<English>You have given painkillers to %1</English>
