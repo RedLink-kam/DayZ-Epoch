@@ -7549,14 +7549,17 @@
 		</Key>
 		<Key ID="STR_UI_HOLD_BREATH">
 			<English>Please change your controls. HoldBreath holds too many keys and has been blocked.</English>
+			<Russian>Пожалуйста, измените ваше управление. HoldBreath содержит слишком много ключей и был заблокирован.</Russian>
 			<German>Bitte ändere deine Steuerung. "Luft anhalten" liegt auf mehr als einer Taste und wurde blockiert.</German>
 		</Key>
 		<Key ID="STR_UI_HOLD_TURBO">
 			<English>Please change your controls. Turbo holds too many keys and has been blocked.</English>
+			<Russian>Пожалуйста, измените ваше управление. Turbo содержит слишком много ключей и был заблокирован.</Russian>
 			<German>Bitte ändere deine Steuerung. "Turbo" liegt auf mehr als einer Taste und wurde blockiert.</German>
 		</Key>
 		<Key ID="STR_UI_STREAMER_MODE">
 			<English>Streamer mode:</English>
+			<Russian>Режим стримера:</Russian>
 			<German>Streamer Modus:</German>
 		</Key>
 		<Key ID="STR_UI_STREAMER_MODE_TOOLTIP">
@@ -8073,110 +8076,137 @@
 		</Key>
 		<Key ID="STR_VEH_NAME_HMMWV_SOV">
 			<English>HMMWV SOV (Desert)</English>
+			<Russian>Хамви SOV (Пустынный)</Russian>
 			<German>Humvee SOV (Wüstentarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_HMMWV_GPK">
 			<English>HMMWV GPK (Desert)</English>
+			<Russian>Хамви GPK (Пустынный)</Russian>
 			<German>Humvee GPK (Wüstentarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_HMMWV_ARMORED">
 			<English>HMMWV M240 (Woodland)</English>
+			<Russian>Хамви GPK (Лесной камуфляж)</Russian>
 			<German>Humvee M240 (Waldtarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_HMMWV_M2">
 			<English>HMMWV M2 (Woodland)</English>
+			<Russian>Хамви M2 (Лесной камуфляж)</Russian>
 			<German>Humvee M2 (Waldtarn)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_HMMWV_DES">
 			<English>HMMWV (Desert)</English>
+			<Russian>Хамви (Пустынный)</Russian>
 			<German>Humvee (Wüstentarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_HMMWV_AMBULANCE">
 			<English>HMMWV Ambulance (Woodland)</English>
+			<Russian>Хамви Скорая (Лесной камуфляж)</Russian>
 			<German>Humvee Sanitätsfzg. (Waldtarn)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_HMMWV_AMBULANCE_DES">
 			<English>HMMWV Ambulance (Desert)</English>
+			<Russian>Хамви Скорая (Пустынный)</Russian>
 			<German>Humvee Sanitätsfzg. (Wüstentarn)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_PICKUP_TAN">
 			<English>Pick-up (tan)</English>
+			<Russian>Пикап (оранжевый)</Russian>
 			<German>Pick-up (gelbbraun)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_PICKUP_WHITE">
 			<English>Pick-up (white)</English>
+			<Russian>Пикап (белый)</Russian>
 			<German>Pick-up (weiß)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_PICKUP_COVERED_RED">
 			<English>Pick-up covered (red)</English>
+			<Russian>Пикап накрытый (красный)</Russian>
 			<German>Pick-up abgedeckt (rot)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_PICKUP_BLUE">
 			<English>Pick-up (blue)</English>
+			<Russian>Пикап (синий)</Russian>
 			<German>Pick-up (blau)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_PICKUP_GREY">
 			<English>Pick-up (grey)</English>
+			<Russian>Пикап (серый)</Russian>
 			<German>Pick-up (grau)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_PICKUP_COVERED_TAN">
 			<English>Pick-up covered (tan)</English>
+			<Russian>Пикап накрытый (оранжевый)</Russian>
 			<German>Pick-up abgedeckt (gelbbraun)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_KAMAZ">
 			<English>Kamaz open (Woodland)</English>
+			<Russian>Камаз открытый (Лесной камуфляж)</Russian>
 			<German>Kamaz offen (Waldtarn)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_KAMAZ_COVERT">
 			<English>Kamaz (Woodland)</English>
+			<Russian>Камаз (Лесной камуфляж)</Russian>
 			<German>Kamaz (Waldtarn)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_KAMAZ_REFUEL">
 			<English>Kamaz (Fuel)</English>
+			<Russian>Камаз (Заправщик)</Russian>
 			<German>Kamaz (Treibstoff)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_LADA_WHITE">
 			<English>Lada (white)</English>
+			<Russian>Лада (белая)</Russian>
 			<German>Lada (weiß)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_LADA_RED">
 			<English>Lada (red)</English>
+			<Russian>Лада (красная)</Russian>
 			<German>Lada (rot)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_LADA_POLICE">
 			<English>Lada Police</English>
+			<Russian>Лада Полиция</Russian>
 			<German>Lada Polizei</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_LADA_GREEN">
 			<English>Lada (green)</English>
+			<Russian>Лада (зеленая)</Russian>
 			<German>Lada (grün)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_LADA_HIPPY">
 			<English>Lada (Hippy)</English>
+			<Russian>Лада (Хиппи)</Russian>
 			<German>Lada (Hippie)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_LADA_YELLOW">
 			<English>Lada (yellow)</English>
+			<Russian>Лада (желтая)</Russian>
 			<German>Lada (gelb)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_MILITARY_OFFROAD_RED">
 			<English>Military Offroad (red)</English>
+			<Russian>Военный внедородник (красный)</Russian>
 			<German>Militär Offroad (rot)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MILITARY_OFFROAD_DESERT">
 			<English>Military Offroad (Desert)</English>
+			<Russian>Военный внедородник (Пустынный)</Russian>
 			<German>Militär Offroad (Wüstentarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MILITARY_OFFROAD_WOODLAND">
 			<English>Military Offroad (Woodland)</English>
+			<Russian>Военный внедородник (Лесной камуфляж)</Russian>
 			<German>Militär Offroad (Waldtarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MILITARY_OFFROAD_SPECIAL">
 			<English>Military Offroad (AGS-30)</English>
+			<Russian>Военный внедородник (AGS-30)</Russian>
 			<German>Militär Offroad (AGS-30)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MILITARY_OFFROAD_M2">
 			<English>Military Offroad (M2)</English>
+			<Russian>Военный внедородник (M2)</Russian>
 			<German>Militär Offroad (M2)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_LAV25">
@@ -8190,6 +8220,7 @@
 		</Key>			
 		<Key ID="STR_VEH_NAME_M113_AMBULANCE_UN">
 			<English>M113 UN Ambulance</English>
+			<Russian>M113 UN Скорая</Russian>
 			<German>M113 UN Sanitätsfzg.</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_M113_UN">
@@ -8197,6 +8228,7 @@
 		</Key>	
 		<Key ID="STR_VEH_NAME_M113_AMBULANCE_TK">
 			<English>M113 TK Ambulance</English>
+			<Russian>M113 TK Скорая</Russian>
 			<German>M113 TK Sanitätsfzg.</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_M113_TK">
@@ -8204,18 +8236,22 @@
 		</Key>
 		<Key ID="STR_VEH_NAME_MTVR_WOODLAND">
 			<English>MTVR (Woodland)</English>
+			<Russian>MTVR (Лесной камуфляж)</Russian>
 			<German>MTVR (Waldtarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MTVR_DESERT">
 			<English>MTVR (Desert)</English>
+			<Russian>MTVR (Пустынный)</Russian>
 			<German>MTVR (Wüstentarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MTVR_WOODLAND_REFUEL">
 			<English>MTVR Woodland (Fuel)</English>
+			<Russian>MTVR Лесной камуфляж (Заправщик)</Russian>
 			<German>MTVR Waldtarn (Treibstoff)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MTVR_DESERT_REFUEL">
 			<English>MTVR Desert (Fuel)</English>
+			<Russian>MTVR Пустынный (Заправщик)</Russian>
 			<German>MTVR Wüstentarn (Treibstoff)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_PICKUP_DSHKM">
@@ -8232,72 +8268,90 @@
 		</Key>
 		<Key ID="STR_VEH_NAME_SKODA_BUS">
 			<English>Skoda Van (blue)</English>
+			<Russian>Шкода фургон (синий)</Russian>
 			<German>Skoda Van (blau)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_SKODA_AMBULANCE">
 			<English>Skoda Van (Ambulance)</English>
+			<Russian>Шкода фургон (Скорая)</Russian>
 			<German>Skoda Van (Ambulanz)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_SKODA_WHITE">
 			<English>Skoda (white)</English>
+			<Russian>Шкода (белая)</Russian>
 			<German>Skoda (weiß)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_SKODA_BLUE">
 			<English>Skoda (blue)</English>
+			<Russian>Шкода (синяя)</Russian>
 			<German>Skoda (blau)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SKODA_RED">
 			<English>Skoda (red)</English>
+			<Russian>Шкода (красная)</Russian>
 			<German>Skoda (rot)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SKODA_GREEN">
 			<English>Skoda (green)</English>
+			<Russian>Шкода (зеленая)</Russian>
 			<German>Skoda (grün)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_BLACK">
 			<English>SUV (black)</English>
+			<Russian>SUV (черный)</Russian>
 			<German>SUV (schwarz)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_SUV_CAMO">
 			<English>SUV (Woodland)</English>
+			<Russian>SUV (Лесной камуфляж)</Russian>
 			<German>SUV (Waldtarn)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_RED">
 			<English>SUV (red)</English>
+			<Russian>SUV (черный)</Russian>
 			<German>SUV (rot)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_GREEN">
 			<English>SUV (green)</English>
+			<Russian>SUV (зеленый)</Russian>
 			<German>SUV (grün)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_YELLOW">
 			<English>SUV (yellow)</English>
+			<Russian>SUV (желтый)</Russian>
 			<German>SUV (gelb)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_SILVER">
 			<English>SUV (silver)</English>
+			<Russian>SUV (серебристый)</Russian>
 			<German>SUV (silber)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_PINK">
 			<English>SUV (pink)</English>
+			<Russian>SUV (розовый)</Russian>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_BLUE">
 			<English>SUV (blue)</English>
+			<Russian>SUV (синий)</Russian>
 			<German>SUV (blau)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_WHITE">
 			<English>SUV (white)</English>
+			<Russian>SUV (белый)</Russian>
 			<German>SUV (weiß)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_ORANGE">
 			<English>SUV (orange)</English>
+			<Russian>SUV (оранжевый)</Russian>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SUV_GREY">
 			<English>SUV (grey)</English>
+			<Russian>SUV (серый)</Russian>
 			<German>SUV (grau)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_SUV_ARMORED">
 			<English>SUV (Armored)</English>
+			<Russian>SUV (Армированный)</Russian>
 			<German>SUV (Gepanzert)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_UAZ_CDF">
@@ -8317,6 +8371,7 @@
 		</Key>
 		<Key ID="STR_VEH_NAME_UAZ_CIVIL">
 			<English>UAZ (Civil)</English>
+			<Russian>UAZ (Гражданский)</Russian>
 			<German>UAZ (Zivil)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_UAZ_DSHKM">
@@ -8333,50 +8388,62 @@
 		</Key>	
 		<Key ID="STR_VEH_NAME_URAL_AMMO">
 			<English>Ural (Material Transport)</English>
+			<Russian>Ural (Мат. обеспечение)</Russian>
 			<German>Ural (Materialtransport)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_URAL_WEAPONS">
 			<English>Ural (Weapon Transport)</English>
+			<Russian>Ural (Оружейный)</Russian>
 			<German>Ural (Waffentransport)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_MTVR_AMMO">
 			<English>MVTR (Material Transport)</English>
+			<Russian>MVTR (Мат. обеспечение)</Russian>
 			<German>MVTR (Materialtransport)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MTVR_WEAPONS">
 			<English>MVTR (Weapon Transport)</English>
+			<Russian>MVTR (Оружейный)</Russian>
 			<German>MVTR (Waffentransport)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_KAMAZ_AMMO">
 			<English>Kamaz (Material Transport)</English>
+			<Russian>Kamaz (Мат. обеспечение)</Russian>
 			<German>Kamaz (Materialtransport)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_KAMAZ_WEAPONS">
 			<English>Kamaz (Weapon Transport)</English>
+			<Russian>Kamaz (Оружейный)</Russian>
 			<German>Kamaz (Waffentransport)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_URAL_CIVIL">
 			<English>Ural (Civil)</English>
+			<Russian>Ural (Гражданский)</Russian>
 			<German>Ural (Zivil)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_URAL_CIVIL_OPEN">
 			<English>Ural open (Civil)</English>
+			<Russian>Ural открытый (Гражданский)</Russian>
 			<German>Ural offen (Zivil)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_URAL_FUEL">
 			<English>Ural (Fuel)</English>
+			<Russian>Ural (Заправщик)</Russian>
 			<German>Ural (Treibstoff)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_V3S_FUEL">
 			<English>V3S (Fuel)</English>
+			<Russian>V3S (Заправщик)</Russian>
 			<German>V3S (Treibstoff)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_V3S_CIVIL">
 			<English>V3S (Civil)</English>
+			<Russian>V3S (Гражданский)</Russian>
 			<German>V3S (Zivil)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_V3S_CIVIL_OPEN">
 			<English>V3S open (Civil)</English>
+			<Russian>V3S открытый (Гражданский)</Russian>
 			<German>V3S offen (Zivil)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_V3S">
@@ -8384,6 +8451,7 @@
 		</Key>	
 		<Key ID="STR_VEH_NAME_V3S_CAMO_OPEN">
 			<English>V3S open (Woodland)</English>
+			<Russian>V3S open (Лесной камуфляж)</Russian>
 			<German>V3S offen (Waldtarn)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_V3S_REAMMO">
@@ -8392,26 +8460,32 @@
 		</Key>		
 		<Key ID="STR_VEH_NAME_GAZ_BLUE">
 			<English>GAZ (blue)</English>
+			<Russian>GAZ (синий)</Russian>
 			<German>GAZ (blau)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_GAZ_GREY">
 			<English>GAZ (grey)</English>
+			<Russian>GAZ (серый)</Russian>
 			<German>GAZ (grau)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_GAZ_BLACK">
 			<English>GAZ (black)</English>
+			<Russian>GAZ (черный)</Russian>
 			<German>GAZ (schwarz)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_VWGOLF_RED">
 			<English>VW Golf (red)</English>
+			<Russian>VW Golf (красный)</Russian>
 			<German>VW Golf (rot)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_SEDAN_WHITE">
 			<English>Sedan (white)</English>
+			<Russian>Sedan (белый)</Russian>
 			<German>Sedan (weiß)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_SEDAN_TAXI">
 			<English>Sedan Taxi</English>
+			<Russian>Sedan Такси</Russian>
 		</Key>	
 		<Key ID="STR_VEH_NAME_HATCHBACK">
 			<German>Kombilimousine</German>
@@ -8426,10 +8500,12 @@
 		</Key>	
 		<Key ID="STR_VEH_NAME_BTR40_DSHKM_GREEN">
 			<English>BTR-40 DSHKM (Green)</English>
+			<Russian>BTR-40 DSHKM (Зеленый)</Russian>
 			<German>BTR-40 DSHKM (Grün)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_BTR40_DSHKM_WOOD">
 			<English>BTR-40 DSHKM (Woodland)</English>
+			<Russian>BTR-40 DSHKM (Лесной камуфляж)</Russian>
 			<German>BTR-40 DSHKM (Waldtarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_BTR90">
@@ -8446,18 +8522,22 @@
 		</Key>		
 		<Key ID="STR_VEH_NAME_JACKAL_L2A1_DESERT">
 			<English>Jackal L2A1 (Desert Camo)</English>
+			<Russian>Jackal L2A1 (Пустынный камуфляж)</Russian>
 			<German>Jackal L2A1 (Wüstentarn)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_JACKAL_L2A1_WOODLAND">
 			<English>Jackal L2A1 (Wood Camo)</English>
+			<Russian>Jackal L2A1 (Лесной камуфляж)</Russian>
 			<German>Jackal L2A1 (Waldtarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_JACKAL_MK19_DESERT">
 			<English>Jackal MK19 (Desert Camo)</English>
+			<Russian>Jackal MK19 (Пустынный камуфляж)</Russian>
 			<German>Jackal MK19 (Wüstentarn)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_JACKAL_MK19_WOODLAND">
 			<English>Jackal MK19 (Wood Camo)</English>
+			<Russian>Jackal MK19 (Лесной камуфляж)</Russian>
 			<German>Jackal MK19 (Waldtarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_ATV">
@@ -8497,18 +8577,22 @@
 		</Key>
 		<Key ID="STR_VEH_NAME_JETSKI_YELLOW">
 			<English>Jet Ski (yellow)</English>
+			<Russian>Jet Ski (желтый)</Russian>
 			<German>Jetski (gelb)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_JETSKI_GREEN">
 			<English>Jet Ski (green)</English>
+			<Russian>Jet Ski (зеленый)</Russian>
 			<German>Jetski (grün)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_JETSKI_BLUE">
 			<English>Jet Ski (blue)</English>
+			<Russian>Jet Ski (синий)</Russian>
 			<German>Jetski (blau)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_JETSKI_RED">
 			<English>Jet Ski (red)</English>
+			<Russian>Jet Ski (красный)</Russian>
 			<German>Jetski (rot)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_MOZZIE">
@@ -8568,16 +8652,19 @@
 		</Key>			
 		<Key ID="STR_VEH_NAME_CH47">
 			<English>CH-47F Chinook</English>
+			<Russian>CH-47F Чинук</Russian>
 		</Key>		
 		<Key ID="STR_VEH_NAME_CH53">
 			<English>CH53E Super Stallion</English>
 		</Key>	
 		<Key ID="STR_VEH_NAME_UH1H_WOODLAND">
 			<English>UH-1H (Woodland)</English>
+			<Russian>UH-1H (Лесной камуфляж)</Russian>
 			<German>UH-1H (Waldtarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_UH1H_DESERT">
 			<English>UH-1H (Desert)</English>
+			<Russian>UH-1H (Пустынный)</Russian>
 			<German>UH-1H (Wüstentarn)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_MH60">
@@ -8597,50 +8684,62 @@
 		</Key>		
 		<Key ID="STR_VEH_NAME_BELLH13_CIV">
 			<English>Bell 47 (Blue\White)</English>
+			<Russian>Bell 47 (Синий\Белый)</Russian>
 			<German>Bell 47 (Blau\Weiß)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_BELLH13_CIV_WHITE">
 			<English>Bell 47 (White)</English>
+			<Russian>Bell 47 (Белый)</Russian>
 			<German>Bell 47 (Weiß)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_BELLH13_CIV_BLUE">
 			<English>Bell 47 (Blue)</English>
+			<Russian>Bell 47 (Синий)</Russian>
 			<German>Bell 47 (Blau)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_BELLH13_CIV_BLACK">
 			<English>Bell 47 (Black)</English>
+			<Russian>Bell 47 (Черный)</Russian>
 			<German>Bell 47 (Schwarz)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_BELLH13_CIV_YELLOW">
 			<English>Bell 47 (Yellow)</English>
+			<Russian>Bell 47 (Желтый)</Russian>
 			<German>Bell 47 (Gelb)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_BELLH13_MEDEVAC">
 			<English>Bell 47 MedEvac (Olive-green)</English>
+			<Russian>Bell 47 MedEvac (Оливковый)</Russian>
 			<German>Bell 47 SanHS. (Olivgrün)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_BELLH13_MEDEVAC_GREEN">
 			<English>Bell 47 MedEvac (Green)</English>
+			<Russian>Bell 47 MedEvac (Зеленый)</Russian>
 			<German>Bell 47 SanHS. (Grün)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_BELLH13_MEDEVAC_ORANGE">
 			<English>Bell 47 MedEvac (Orange)</English>
+			<Russian>Bell 47 MedEvac (Оранжевый)</Russian>
 			<German>Bell 47 SanHS. (Orange)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_BELLH13_GUNSHIP">
 			<English>Bell 47 Gunship (Olive-green)</English>
+			<Russian>Bell 47 Gunship (Оливковый)</Russian>
 			<German>Bell 47 Gunship (Olivgrün)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_BELLH13_GUNSHIP_GREEN">
 			<English>Bell 47 Gunship (Green)</English>
+			<Russian>Bell 47 Gunship (Зеленый)</Russian>
 			<German>Bell 47 Gunship (Grün)</German>
 		</Key>		
 		<Key ID="STR_VEH_NAME_BELLH13_TRANSPORT">
 			<English>Bell 47 Transport (Olive-green)</English>
+			<Russian>Bell 47 Transport (Оливковый)</Russian>
 			<German>Bell 47 Transport (Olivgrün)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_BELLH13_TRANSPORT_GREEN">
 			<English>Bell 47 Transport (Green)</English>
+			<Russian>Bell 47 Transport (Зеленый)</Russian>
 			<German>Bell 47 Transport (Grün)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_MI8_WRECK">
@@ -8669,29 +8768,36 @@
 		</Key>
 		<Key ID="STR_VEH_NAME_AN2_GREEN">
 			<English>Antonov AN-2 (green)</English>
+			<Russian>Антонов AN-2 (зеленый)</Russian>
 			<German>Antonow AN-2 (grün)</German>
 		</Key>
 		<Key ID="STR_VEH_NAME_AN2_WHITEGREEN">
-			<English>Antonov AN-2 (white reen)</English>
+			<English>Antonov AN-2 (white green)</English>
+			<Russian>Антонов AN-2 (бело-зеленый)</Russian>
 			<German>Antonow AN-2 (weiß grün)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_AN2_WHITERED">
 			<English>Antonov AN-2 (white red)</English>
+			<Russian>Антонов AN-2 (бело-красный)</Russian>
 			<German>Antonow AN-2 (weiß rot)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_CESSNA_WHITE">
 			<English>Cessna C185C (white)</English>
+			<Russian>Cessna C185C (белая)</Russian>
 			<German>Cessna C185C (weiß)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_CESSNA_YELLOW">
 			<English>Cessna C185R (yellow)</English>
+			<Russian>Cessna C185R (желтая)</Russian>
 			<German>Cessna C185R (gelb)</German>
 		</Key>	
 		<Key ID="STR_VEH_NAME_CESSNA_ORANGE">
 			<English>Cessna C185 (orange)</English>
+			<Russian>Cessna C185 (оранжевая)</Russian>
 		</Key>	
 		<Key ID="STR_VEH_NAME_CESSNA_CAMO">
 			<English>Cessna C185U (Camo)</English>
+			<Russian>Cessna C185U (Камуфляж)</Russian>
 			<German>Cessna C185U (Tarn)</German>
 		</Key>			
 		<Key ID="STR_VEH_NAME_STASH">
@@ -9008,38 +9114,47 @@
 		</Key>
 		<Key ID="STR_ZNAME_CREWMAN">
 			<English>Infected Crewman</English>
+			<Russian>Инфицированный Пилот</Russian>
 			<German>Infiziertes Besatzungsmitglied</German>
 		</Key>	
 		<Key ID="STR_ZNAME_OFFICER">
 			<English>Infected Officer</English>
+			<Russian>Инфицированный Офицер</Russian>
 			<German>Infizierter Offizier</German>
 		</Key>	
 		<Key ID="STR_ZNAME_GHILLIE">
 			<English>Infected Sniper</English>
+			<Russian>Инфицированный Снайпер</Russian>
 			<German>Infizierter Scharfschütze</German>
 		</Key>		
 		<Key ID="STR_ZNAME_SPECIALFORCES">
 			<English>Infected Special Forces</English>
+			<Russian>Инфицированный Спецназ</Russian>
 			<German>Infizierte Spezialeinheit</German>
 		</Key>	
 		<Key ID="STR_ZNAME_REBELS">
 			<English>Infected Rebel</English>
+			<Russian>Инфицированный Мятежник</Russian>
 			<German>Infizierter Rebell</German>
 		</Key>		
 		<Key ID="STR_ZNAME_LUMERJACK">
 			<English>Infected Lumberjack</English>
+			<Russian>Инфицированный Лесоруб</Russian>
 			<German>Infizierter Holzfäller</German>
 		</Key>	
 		<Key ID="STR_ZNAME_ROCKER">
 			<English>Infected Rocker</English>
+			<Russian>Инфицированный Рокер</Russian>
 			<German>Infizierter Rocker</German>
 		</Key>	
 		<Key ID="STR_ZNAME_ASSISTANT">
 			<English>Infected Assistant</English>
+			<Russian>Инфицированный Помошник</Russian>
 			<German>Infizierter Assistant</German>
 		</Key>		
 		<Key ID="STR_ZNAME_BODYGUARD">
 			<English>Infected Bodyguard</English>
+			<Russian>Инфицированный Охранник</Russian>
 			<German>Infizierter Leibwächter</German>
 		</Key>
 	</Package>
@@ -10039,7 +10154,7 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_M14_GH_NAME">
 			<English>M14 Camo</English>
-			<Russian>M14 (камуфляж)</Russian>
+			<Russian>M14 (Камуфляж)</Russian>
 			<German>M14 Tarn</German>
 		</Key>
 		<Key ID="STR_DZ_WPN_M14_CCO_NAME">
@@ -10047,7 +10162,7 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_M14_CCO_GH_NAME">
 			<English>M14 CCO Camo</English>
-			<Russian>M14 CCO (камуфляж)</Russian>
+			<Russian>M14 CCO (Камуфляж)</Russian>
 			<German>M14 CCO Tarn</German>
 		</Key>
 		<Key ID="STR_DZ_WPN_M14_HOLO_NAME">
@@ -10055,7 +10170,7 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_M14_HOLO_GH_NAME">
 			<English>M14 Holo Camo</English>
-			<Russian>M14 Holo (камуфляж)</Russian>
+			<Russian>M14 Holo (Камуфляж)</Russian>
 			<German>M14 Holo Tarn</German>
 		</Key>
 		<Key ID="STR_DZ_WPN_M14_ACOG_NAME">
@@ -10063,7 +10178,7 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_M14_ACOG_GH_NAME">
 			<English>M14 ACOG Camo</English>
-			<Russian>M14 ACOG (камуфляж)</Russian>
+			<Russian>M14 ACOG (Камуфляж)</Russian>
 			<German>M14 ACOG Tarn</German>
 		</Key>
 		
@@ -10073,7 +10188,7 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_M24_GH_NAME">
 			<English>M24 Camo</English>
-			<Russian>M24 (камуфляж)</Russian>
+			<Russian>M24 (Камуфляж)</Russian>
 			<German>M24 Tarn</German>
 		</Key>
 		<Key ID="STR_DZ_WPN_M40A3_NAME">
@@ -10081,7 +10196,7 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_M40A3_GH_NAME">
 			<English>M40A3 Camo</English>
-			<Russian>M40A3 (камуфляж)</Russian>
+			<Russian>M40A3 (Камуфляж)</Russian>
 			<German>M40A3 Tarn</German>
 		</Key>
 		<Key ID="STR_DZ_WPN_DMR_NAME">
@@ -10089,7 +10204,7 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_DMR_GH_NAME">
 			<English>DMR Camo</English>
-			<Russian>DMR (камуфляж)</Russian>
+			<Russian>DMR (Камуфляж)</Russian>
 			<German>DMR Tarn</German>
 		</Key>
 		<Key ID="STR_DZ_WPN_L115A3_NAME">
@@ -10108,13 +10223,11 @@
 		<Key ID="STR_DZ_WPN_L85A2_FL_NAME">
 			<English>L85A2 FL</English>
 			<German>L85A2 TL</German>
-			<Russian>L85A2 Ф</Russian>
-		</Key>
+					</Key>
 		<Key ID="STR_DZ_WPN_L85A2_MFL_NAME">
 			<English>L85A2 MFL</English>
 			<German>L85A2 MTL</German>
-			<Russian>L85A2 вФ</Russian>
-		</Key>
+					</Key>
 		<Key ID="STR_DZ_WPN_L85A2_SD_NAME">
 			<English>L85A2 SD</English>
 			<Russian>L85A2 ПБС</Russian>
@@ -10122,12 +10235,12 @@
 		<Key ID="STR_DZ_WPN_L85A2_SD_FL_NAME">
 			<English>L85A2 SD FL</English>
 			<German>L85A2 SD TL</German>
-			<Russian>L85A2 ПБС Ф</Russian>
+			<Russian>L85A2 ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_SD_MFL_NAME">
 			<English>L85A2 SD MFL</English>
 			<German>L85A2 SD MTL</German>
-			<Russian>L85A2 ПБС вФ</Russian>
+			<Russian>L85A2 ПБС MFL</Russian>
 		</Key>
 		<!-- L85A2 CCO-->
 		<Key ID="STR_DZ_WPN_L85A2_CCO_NAME">
@@ -10136,12 +10249,12 @@
 		<Key ID="STR_DZ_WPN_L85A2_CCO_FL_NAME">
 			<English>L85A2 CCO FL</English>
 			<German>L85A2 CCO TL</German>
-			<Russian>L85A2 CCO Ф</Russian>
+			<Russian>L85A2 CCO FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_CCO_MFL_NAME">
 			<English>L85A2 CCO MFL</English>
 			<German>L85A2 CCO MTL</German>
-			<Russian>L85A2 CCO вФ</Russian>
+			<Russian>L85A2 CCO MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_CCO_SD_NAME">
 			<English>L85A2 CCO SD</English>
@@ -10150,12 +10263,12 @@
 		<Key ID="STR_DZ_WPN_L85A2_CCO_SD_FL_NAME">
 			<English>L85A2 CCO SD FL</English>
 			<German>L85A2 CCO SD TL</German>
-			<Russian>L85A2 CCO ПБС Ф</Russian>
+			<Russian>L85A2 CCO ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_CCO_SD_MFL_NAME">
 			<English>L85A2 CCO SD MFL</English>
 			<German>L85A2 CCO SD MTL</German>
-			<Russian>L85A2 CCO ПБС вФ</Russian>
+			<Russian>L85A2 CCO ПБС MFL</Russian>
 		</Key>
 		<!-- L85A2 Holo -->
 		<Key ID="STR_DZ_WPN_L85A2_HOLO_NAME">
@@ -10164,12 +10277,10 @@
 		<Key ID="STR_DZ_WPN_L85A2_HOLO_FL_NAME">
 			<English>L85A2 Holo FL</English>
 			<German>L85A2 Holo TL</German>
-			<Russian>L85A2 Holo Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_HOLO_MFL_NAME">
 			<English>L85A2 Holo MFL</English>
 			<German>L85A2 Holo MTL</German>
-			<Russian>L85A2 Holo вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_HOLO_SD_NAME">
 			<English>L85A2 Holo SD</English>
@@ -10178,12 +10289,12 @@
 		<Key ID="STR_DZ_WPN_L85A2_HOLO_SD_FL_NAME">
 			<English>L85A2 Holo SD FL</English>
 			<German>L85A2 Holo SD TL</German>
-			<Russian>L85A2 Holo ПБС Ф</Russian>
+			<Russian>L85A2 Holo ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_HOLO_SD_MFL_NAME">
 			<English>L85A2 Holo SD MFL</English>
 			<German>L85A2 Holo SD MTL</German>
-			<Russian>L85A2 Holo ПБС вФ</Russian>
+			<Russian>L85A2 Holo ПБС MFL</Russian>
 		</Key>
 		<!-- L85A2 ACOG -->
 		<Key ID="STR_DZ_WPN_L85A2_ACOG_NAME">
@@ -10192,12 +10303,10 @@
 		<Key ID="STR_DZ_WPN_L85A2_ACOG_FL_NAME">
 			<English>L85A2 ACOG FL</English>
 			<German>L85A2 ACOG TL</German>
-			<Russian>L85A2 ACOG Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_ACOG_MFL_NAME">
 			<English>L85A2 ACOG MFL</English>
 			<German>L85A2 ACOG MTL</German>
-			<Russian>L85A2 ACOG вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_ACOG_SD_NAME">
 			<English>L85A2 ACOG SD</English>
@@ -10206,12 +10315,12 @@
 		<Key ID="STR_DZ_WPN_L85A2_ACOG_SD_FL_NAME">
 			<English>L85A2 ACOG SD FL</English>
 			<German>L85A2 ACOG SD TL</German>
-			<Russian>L85A2 ACOG ПБС Ф</Russian>
+			<Russian>L85A2 ACOG ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_L85A2_ACOG_SD_MFL_NAME">
 			<English>L85A2 ACOG SD MFL</English>
 			<German>L85A2 ACOG SD MTL</German>
-			<Russian>L85A2 ACOG ПБС вФ</Russian>
+			<Russian>L85A2 ACOG ПБС MFL</Russian>
 		</Key>
 		
 		<!-- M4A1 -->
@@ -10221,12 +10330,10 @@
 		<Key ID="STR_DZ_WPN_M4A1_FL_NAME">
 			<English>M4A1 FL</English>
 			<German>M4A1 TL</German>				
-			<Russian>M4A1 Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_MFL_NAME">
 			<English>M4A1 MFL</English>
 			<German>M4A1 MTL</German>				
-			<Russian>M4A1 вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_SD_NAME">
 			<English>M4A1 SD</English>
@@ -10235,12 +10342,12 @@
 		<Key ID="STR_DZ_WPN_M4A1_SD_FL_NAME">
 			<English>M4A1 SD FL</English>
 			<German>M4A1 SD TL</German>				
-			<Russian>M4A1 ПБС Ф</Russian>
+			<Russian>M4A1 ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_SD_MFL_NAME">
 			<English>M4A1 SD MFL</English>
 			<German>M4A1 SD MTL</German>				
-			<Russian>M4A1 ПБС вФ</Russian>
+			<Russian>M4A1 ПБС MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_NAME">
 			<English>M4A1 M203</English>
@@ -10248,12 +10355,10 @@
 		<Key ID="STR_DZ_WPN_M4A1_GL_FL_NAME">
 			<English>M4A1 M203 FL</English>
 			<German>M4A1 M203 TL</German>				
-			<Russian>M4A1 M203 Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_MFL_NAME">
 			<English>M4A1 M203 MFL</English>
 			<German>M4A1 M203 MTL</German>				
-			<Russian>M4A1 M203 вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_SD_NAME">
 			<English>M4A1 M203 SD</English>
@@ -10262,12 +10367,12 @@
 		<Key ID="STR_DZ_WPN_M4A1_GL_SD_FL_NAME">
 			<English>M4A1 M203 SD FL</English>
 			<German>M4A1 M203 SD TL</German>				
-			<Russian>M4A1 M203 ПБС Ф</Russian>
+			<Russian>M4A1 M203 ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_SD_MFL_NAME">
 			<English>M4A1 M203 SD MFL</English>
 			<German>M4A1 M203 SD MTL</German>				
-			<Russian>M4A1 M203 ПБС вФ</Russian>
+			<Russian>M4A1 M203 ПБС MFL</Russian>
 		</Key>
 		<!-- M4A1 CCO-->
 		<Key ID="STR_DZ_WPN_M4A1_CCO_NAME">
@@ -10276,12 +10381,10 @@
 		<Key ID="STR_DZ_WPN_M4A1_CCO_FL_NAME">
 			<English>M4A1 CCO FL</English>
 			<German>M4A1 CCO TL</German>				
-			<Russian>M4A1 CCO Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_CCO_MFL_NAME">
 			<English>M4A1 CCO MFL</English>
 			<German>M4A1 CCO MTL</German>				
-			<Russian>M4A1 CCO вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_CCO_SD_NAME">
 			<English>M4A1 CCO SD</English>
@@ -10290,12 +10393,12 @@
 		<Key ID="STR_DZ_WPN_M4A1_CCO_SD_FL_NAME">
 			<English>M4A1 CCO SD FL</English>
 			<German>M4A1 CCO SD TL</German>				
-			<Russian>M4A1 CCO ПБС Ф</Russian>
+			<Russian>M4A1 CCO ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_CCO_SD_MFL_NAME">
 			<English>M4A1 CCO SD MFL</English>
 			<German>M4A1 CCO SD MTL</German>				
-			<Russian>M4A1 CCO ПБС вФ</Russian>
+			<Russian>M4A1 CCO ПБС MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_CCO_NAME">
 			<English>M4A1 M203 CCO</English>
@@ -10303,12 +10406,10 @@
 		<Key ID="STR_DZ_WPN_M4A1_GL_CCO_FL_NAME">
 			<English>M4A1 M203 CCO FL</English>
 			<German>M4A1 M203 CCO TL</German>				
-			<Russian>M4A1 M203 CCO Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_CCO_MFL_NAME">
 			<English>M4A1 M203 CCO MFL</English>
 			<German>M4A1 M203 CCO MTL</German>				
-			<Russian>M4A1 M203 CCO вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_CCO_SD_NAME">
 			<English>M4A1 M203 CCO SD</English>
@@ -10317,12 +10418,12 @@
 		<Key ID="STR_DZ_WPN_M4A1_GL_CCO_SD_FL_NAME">
 			<English>M4A1 M203 CCO SD FL</English>
 			<German>M4A1 M203 CCO SD TL</German>				
-			<Russian>M4A1 M203 CCO ПБС Ф</Russian>
+			<Russian>M4A1 M203 CCO ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_CCO_SD_MFL_NAME">
 			<English>M4A1 M203 CCO SD MFL</English>
 			<German>M4A1 M203 CCO SD MTL</German>				
-			<Russian>M4A1 M203 CCO ПБС вФ</Russian>
+			<Russian>M4A1 M203 CCO ПБС MFL</Russian>
 		</Key>
 		<!-- M4A1 Holo -->
 		<Key ID="STR_DZ_WPN_M4A1_HOLO_NAME">
@@ -10331,12 +10432,10 @@
 		<Key ID="STR_DZ_WPN_M4A1_HOLO_FL_NAME">
 			<English>M4A1 Holo FL</English>
 			<German>M4A1 Holo TL</German>				
-			<Russian>M4A1 Holo Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_HOLO_MFL_NAME">
 			<English>M4A1 Holo MFL</English>
 			<German>M4A1 Holo MTL</German>				
-			<Russian>M4A1 Holo вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_HOLO_SD_NAME">
 			<English>M4A1 Holo SD</English>
@@ -10345,12 +10444,12 @@
 		<Key ID="STR_DZ_WPN_M4A1_HOLO_SD_FL_NAME">
 			<English>M4A1 Holo SD FL</English>
 			<German>M4A1 Holo SD TL</German>				
-			<Russian>M4A1 Holo ПБС Ф</Russian>
+			<Russian>M4A1 Holo ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_HOLO_SD_MFL_NAME">
 			<English>M4A1 Holo SD MFL</English>
 			<German>M4A1 Holo SD MTL</German>				
-			<Russian>M4A1 Holo ПБС вФ</Russian>
+			<Russian>M4A1 Holo ПБС MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_HOLO_NAME">
 			<English>M4A1 M203 Holo</English>
@@ -10358,12 +10457,10 @@
 		<Key ID="STR_DZ_WPN_M4A1_GL_HOLO_FL_NAME">
 			<English>M4A1 M203 Holo FL</English>
 			<German>M4A1 M203 Holo TL</German>				
-			<Russian>M4A1 M203 Holo Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_HOLO_MFL_NAME">
 			<English>M4A1 M203 Holo MFL</English>
 			<German>M4A1 M203 Holo MTL</German>				
-			<Russian>M4A1 M203 Holo вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_HOLO_SD_NAME">
 			<English>M4A1 M203 Holo SD</English>
@@ -10372,12 +10469,12 @@
 		<Key ID="STR_DZ_WPN_M4A1_GL_HOLO_SD_FL_NAME">
 			<English>M4A1 M203 Holo SD FL</English>
 			<German>M4A1 M203 Holo SD TL</German>				
-			<Russian>M4A1 M203 Holo ПБС Ф</Russian>
+			<Russian>M4A1 M203 Holo ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_HOLO_SD_MFL_NAME">
 			<English>M4A1 M203 Holo SD MFL</English>
 			<German>M4A1 M203 Holo SD MTL</German>					
-			<Russian>M4A1 M203 Holo ПБС вФ</Russian>
+			<Russian>M4A1 M203 Holo ПБС MFL</Russian>
 		</Key>
 		<!-- M4A1 ACOG -->
 		<Key ID="STR_DZ_WPN_M4A1_ACOG_NAME">
@@ -10386,12 +10483,11 @@
 		<Key ID="STR_DZ_WPN_M4A1_ACOG_FL_NAME">
 			<English>M4A1 ACOG FL</English>
 			<German>M4A1 ACOG TL</German>					
-			<Russian>M4A1 ACOG Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_ACOG_MFL_NAME">
 			<English>M4A1 ACOG MFL</English>
 			<German>M4A1 ACOG MTL</German>				
-			<Russian>M4A1 ACOG вФ</Russian>
+			<Russian>M4A1 ACOG MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_ACOG_SD_NAME">
 			<English>M4A1 ACOG SD</English>
@@ -10400,12 +10496,11 @@
 		<Key ID="STR_DZ_WPN_M4A1_ACOG_SD_FL_NAME">
 			<English>M4A1 ACOG SD FL</English>
 			<German>M4A1 ACOG SD TL</German>				
-			<Russian>M4A1 ACOG ПБС Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_ACOG_SD_MFL_NAME">
 			<English>M4A1 ACOG SD MFL</English>
 			<German>M4A1 ACOG SD MTL</German>				
-			<Russian>M4A1 ACOG ПБС вФ</Russian>
+			<Russian>M4A1 ACOG ПБС MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_ACOG_NAME">
 			<English>M4A1 M203 ACOG</English>
@@ -10413,12 +10508,10 @@
 		<Key ID="STR_DZ_WPN_M4A1_GL_ACOG_FL_NAME">
 			<English>M4A1 M203 ACOG FL</English>
 			<German>M4A1 M203 ACOG TL</German>				
-			<Russian>M4A1 M203 ACOG Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_ACOG_MFL_NAME">
 			<English>M4A1 M203 ACOG MFL</English>
 			<German>M4A1 M203 ACOG MTL</German>				
-			<Russian>M4A1 M203 ACOG вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_ACOG_SD_NAME">
 			<English>M4A1 M203 ACOG SD</English>
@@ -10427,12 +10520,12 @@
 		<Key ID="STR_DZ_WPN_M4A1_GL_ACOG_SD_FL_NAME">
 			<English>M4A1 M203 ACOG SD FL</English>
 			<German>M4A1 M203 ACOG SD TL</German>				
-			<Russian>M4A1 M203 ACOG ПБС Ф</Russian>
+			<Russian>M4A1 M203 ACOG ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M4A1_GL_ACOG_SD_MFL_NAME">
 			<English>M4A1 M203 ACOG SD MFL</English>
 			<German>M4A1 M203 ACOG SD MTL</German>	
-			<Russian>M4A1 M203 ACOG ПБС вФ</Russian>
+			<Russian>M4A1 M203 ACOG ПБС MFL</Russian>
 		</Key>
 		
 		<!-- M16A4 -->
@@ -10442,12 +10535,10 @@
 		<Key ID="STR_DZ_WPN_M16A4_FL">
 			<English>M16A4 FL</English>
 			<German>M16A4 TL</German>				
-			<Russian>M16A4 Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_MFL">
 			<English>M16A4 MFL</English>
 			<German>M16A4 MTL</German>				
-			<Russian>M16A4 вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_CCO">
 			<English>M16A4 CCO</English>
@@ -10455,12 +10546,10 @@
 		<Key ID="STR_DZ_WPN_M16A4_CCO_FL">
 			<English>M16A4 CCO FL</English>
 			<German>M16A4 CCO TL</German>					
-			<Russian>M16A4 CCO Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_CCO_MFL">
 			<English>M16A4 CCO MFL</English>
 			<German>M16A4 CCO MTL</German>					
-			<Russian>M16A4 CCO вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_HOLO">
 			<English>M16A4 Holo</English>
@@ -10468,12 +10557,10 @@
 		<Key ID="STR_DZ_WPN_M16A4_HOLO_FL">
 			<English>M16A4 Holo FL</English>
 			<German>M16A4 Holo TL</German>					
-			<Russian>M16A4 Holo Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_HOLO_MFL">
 			<English>M16A4 Holo MFL</English>
 			<German>M16A4 Holo MTL</German>					
-			<Russian>M16A4 Holo вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_ACOG_NAME">
 			<English>M16A4 ACOG</English>
@@ -10481,12 +10568,10 @@
 		<Key ID="STR_DZ_WPN_M16A4_ACOG_FL_NAME">
 			<English>M16A4 ACOG FL</English>
 			<German>M16A4 ACOG TL</German>					
-			<Russian>M16A4 ACOG Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_ACOG_MFL_NAME">
 			<English>M16A4 ACOG MFL</English>
 			<German>M16A4 ACOG MTL</German>				
-			<Russian>M16A4 ACOG вФ</Russian>
 		</Key>
 
 		<!-- M203 -->
@@ -10496,12 +10581,10 @@
 		<Key ID="STR_DZ_WPN_M16A4_GL_FL">
 			<English>M16A4 M203 FL</English>
 			<German>M16A4 M203 TL</German>				
-			<Russian>M16A4 M203 Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_GL_MFL">
 			<English>M16A4 M203 MFL</English>
 			<German>M16A4 M203 MTL</German>				
-			<Russian>M16A4 M203 вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_GL_CCO">
 			<English>M16A4 M203 CCO</English>
@@ -10509,12 +10592,10 @@
 		<Key ID="STR_DZ_WPN_M16A4_GL_CCO_FL">
 			<English>M16A4 M203 CCO FL</English>
 			<German>M16A4 M203 CCO TL</German>				
-			<Russian>M16A4 M203 CCO Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_GL_CCO_MFL">
 			<English>M16A4 M203 CCO MFL</English>
 			<German>M16A4 M203 CCO MTL</German>				
-			<Russian>M16A4 M203 CCO вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_GL_HOLO">
 			<English>M16A4 M203 Holo</English>
@@ -10522,12 +10603,10 @@
 		<Key ID="STR_DZ_WPN_M16A4_GL_HOLO_FL">
 			<English>M16A4 M203 Holo FL</English>
 			<German>M16A4 M203 Holo TL</German>				
-			<Russian>M16A4 M203 Holo Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_GL_HOLO_MFL">
 			<English>M16A4 M203 Holo MFL</English>
 			<German>M16A4 M203 Holo MTL</German>					
-			<Russian>M16A4 M203 Holo вФ</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_GL_ACOG_NAME">
 			<English>M16A4 M203 ACOG</English>
@@ -10535,12 +10614,10 @@
 		<Key ID="STR_DZ_WPN_M16A4_GL_ACOG_FL_NAME">
 			<English>M16A4 M203 ACOG FL</English>
 			<German>M16A4 M203 ACOG TL</German>			
-			<Russian>M16A4 M203 ACOG Ф</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_M16A4_GL_ACOG_MFL_NAME">
 			<English>M16A4 M203 ACOG MFL</English>
 			<German>M16A4 M203 ACOG MTL</German>
-			<Russian>M16A4 M203 ACOG вФ</Russian>
 		</Key>
 
 		<!-- FN FAL -->
@@ -10683,12 +10760,12 @@
 		<Key ID="STR_DZ_WPN_SA58_RIS_FL_NAME">
 			<English>SA-58 RIS FL</English>
 			<German>SA-58 RIS TL</German>					
-			<Russian>SA-58 РСИ Ф</Russian>
+			<Russian>SA-58 РСИ FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_SA58_RIS_MFL_NAME">
 			<English>SA-58 RIS MFL</English>
 			<German>SA-58 RIS MTL</German>				
-			<Russian>SA-58 РСИ вФ</Russian>
+			<Russian>SA-58 РСИ MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_SA58_CCO_NAME">
 			<English>SA-58 CCO</English>
@@ -10696,12 +10773,12 @@
 		<Key ID="STR_DZ_WPN_SA58_CCO_FL_NAME">
 			<English>SA-58 CCO FL</English>
 			<German>SA-58 CCO TL</German>		
-			<Russian>SA-58 CCO Ф</Russian>
+			<Russian>SA-58 CCO FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_SA58_CCO_MFL_NAME">
 			<English>SA-58 CCO MFL</English>
 			<German>SA-58 CCO MTL</German>				
-			<Russian>SA-58 CCO вФ</Russian>
+			<Russian>SA-58 CCO MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_SA58_HOLO_NAME">
 			<English>SA-58 Holo</English>
@@ -10709,12 +10786,12 @@
 		<Key ID="STR_DZ_WPN_SA58_HOLO_FL_NAME">
 			<English>SA-58 Holo FL</English>
 			<German>SA-58 Holo TL</German>				
-			<Russian>SA-58 Holo Ф</Russian>
+			<Russian>SA-58 Holo FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_SA58_HOLO_MFL_NAME">
 			<English>SA-58 Holo MFL</English>
 			<German>SA-58 Holo MTL</German>				
-			<Russian>SA-58 Holo вФ</Russian>
+			<Russian>SA-58 Holo MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_SA58_ACOG_NAME">
 			<English>SA-58 ACOG</English>
@@ -10722,12 +10799,12 @@
 		<Key ID="STR_DZ_WPN_SA58_ACOG_FL_NAME">
 			<English>SA-58 ACOG FL</English>
 			<German>SA-58 ACOG TL</German>				
-			<Russian>SA-58 ACOG Ф</Russian>
+			<Russian>SA-58 ACOG FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_SA58_ACOG_MFL_NAME">
 			<English>SA-58 ACOG MFL</English>
 			<German>SA-58 ACOG MTL</German>					
-			<Russian>SA-58 ACOG вФ</Russian>
+			<Russian>SA-58 ACOG MFL</Russian>
 		</Key>
 		
 		<!-- G36C -->
@@ -10817,12 +10894,12 @@
 		<Key ID="STR_DZ_WPN_G17_FL_NAME">
 			<English>G17 FL</English>
 			<German>G17 TL</German>					
-			<Russian>G17 Ф</Russian>
+			<Russian>G17 FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_G17_MFL_NAME">
 			<English>G17 MFL</English>
 			<German>G17 MTL</German>					
-			<Russian>G17 вФ</Russian>
+			<Russian>G17 MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_G17_SD_NAME">
 			<English>G17 SD</English>
@@ -10831,12 +10908,12 @@
 		<Key ID="STR_DZ_WPN_G17_SD_FL_NAME">
 			<English>G17 SD FL</English>
 			<German>G17 SD TL</German>					
-			<Russian>G17 ПБС Ф</Russian>
+			<Russian>G17 ПБС FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_G17_SD_MFL_NAME">
 			<English>G17 SD MFL</English>
 			<German>G17 SD MTL</German>			
-			<Russian>G17 ПБС вФ</Russian>
+			<Russian>G17 ПБС MFL</Russian>
 		</Key>
 		
 		<!-- PM -->
@@ -11025,27 +11102,27 @@
 		<Key ID="STR_DZ_WPN_MOSIN_FL_NAME">
 			<English>Mosin Nagant FL</English>
 			<German>Mosin Nagant TL</German>				
-			<Russian>Винтовка Мосина Ф</Russian>
+			<Russian>Винтовка Мосина FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_MFL_NAME">
 			<English>Mosin Nagant MFL</English>
 			<German>Mosin Nagant TL</German>				
-			<Russian>Винтовка Мосина вФ</Russian>
+			<Russian>Винтовка Мосина MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_BELT_NAME">
 			<English>Mosin Nagant Belt</English>
 			<German>Mosin Nagant Gurt</German>				
-			<Russian>Винтовка Мосина П</Russian>
+			<Russian>Винтовка Мосина с Ремнем</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_BELT_FL_NAME">
 			<English>Mosin Nagant Belt FL</English>
 			<German>Mosin Nagant Gurt TL</German>				
-			<Russian>Винтовка Мосина П Ф</Russian>
+			<Russian>Винтовка Мосина с Ремнем FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_BELT_MFL_NAME">
 			<English>Mosin Nagant Belt MFL</English>
 			<German>Mosin Nagant Gurt MTL</German>				
-			<Russian>Винтовка Мосина П вФ</Russian>
+			<Russian>Винтовка Мосина с Ремнем MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_PU_NAME">
 			<English>Mosin Nagant PU</English>
@@ -11059,22 +11136,22 @@
 		<Key ID="STR_DZ_WPN_MOSIN_PU_MFL_NAME">
 			<English>Mosin Nagant PU MFL</English>
 			<German>Mosin Nagant PU MTL</German>				
-			<Russian>Винтовка Мосина ПР вФ</Russian>
+			<Russian>Винтовка Мосина ПР FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_PU_BELT_NAME">
 			<English>Mosin Nagant PU Belt</English>
 			<German>Mosin Nagant PU Gurt</German>				
-			<Russian>Винтовка Мосина ПР П</Russian>
+			<Russian>Винтовка Мосина ПР с Ремнем</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_PU_BELT_FL_NAME">
 			<English>Mosin Nagant PU Belt FL</English>
 			<German>Mosin Nagant PU Gurt TL</German>				
-			<Russian>Винтовка Мосина ПР П Ф</Russian>
+			<Russian>Винтовка Мосина ПР с Ремнем FL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_PU_BELT_MFL_NAME">
 			<English>Mosin Nagant PU Belt MFL</English>
 			<German>Mosin Nagant PU Gurt MTL</German>			
-			<Russian>Винтовка Мосина ПР П вФ</Russian>
+			<Russian>Винтовка Мосина ПР с Ремнем MFL</Russian>
 		</Key>
 		<Key ID="STR_DZ_WPN_MOSIN_DESC">
 			<English>Bolt-action military rifle developed by the Imperial Russian Army in 1891.&lt;br/&gt;Caliber: 7.62x54mmR</English>
@@ -11090,12 +11167,12 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_CROSSBOW_FL_NAME">
 			<English>Crossbow FL</English>
-			<Russian>Арбалет Ф</Russian>
+			<Russian>Арбалет FL</Russian>
 			<German>Armbrust TL</German>				
 		</Key>
 		<Key ID="STR_DZ_WPN_CROSSBOW_MFL_NAME">
 			<English>Crossbow MFL</English>
-			<Russian>Арбалет вФ</Russian>
+			<Russian>Арбалет MFL</Russian>
 			<German>Armbrust MTL</German>				
 		</Key>
 		<Key ID="STR_DZ_WPN_CROSSBOW_CCO_NAME">
@@ -11105,12 +11182,12 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_CROSSBOW_CCO_FL_NAME">
 			<English>Crossbow CCO FL</English>
-			<Russian>Арбалет CCO Ф</Russian>
+			<Russian>Арбалет CCO FL</Russian>
 			<German>Armbrust CCO TL</German>						
 		</Key>
 		<Key ID="STR_DZ_WPN_CROSSBOW_CCO_MFL_NAME">
 			<English>Crossbow CCO MFL</English>
-			<Russian>Арбалет CCO вФ</Russian>
+			<Russian>Арбалет CCO MFL</Russian>
 			<German>Armbrust CCO MTL</German>						
 		</Key>
 		<Key ID="STR_DZ_WPN_CROSSBOW_SCOPE_NAME">
@@ -11120,12 +11197,12 @@
 		</Key>
 		<Key ID="STR_DZ_WPN_CROSSBOW_SCOPE_FL_NAME">
 			<English>Crossbow Scoped FL</English>
-			<Russian>Арбалет ПР Ф</Russian>
+			<Russian>Арбалет ПР FL</Russian>
 			<German>Armbrust mit Zielfernrohr TL</German>						
 		</Key>
 		<Key ID="STR_DZ_WPN_CROSSBOW_SCOPE_MFL_NAME">
 			<English>Crossbow Scoped MFL</English>
-			<Russian>Арбалет ПР вФ</Russian>
+			<Russian>Арбалет ПР MFL</Russian>
 			<German>Armbrust mit Zielfernrohr MTL</German>						
 		</Key>
 		
@@ -11750,14 +11827,17 @@
 		</Key>
 		<Key ID="STR_EPOCH_NO_CHEATS">
 			<English>Do not enter cheats. Wait five seconds to continue.</English>
+			<Russian>Не вводите читы. Подождите 5 секунд чтобы продолжить.</Russian>
 			<German>Keine Eingabe von Cheats! Warte 5 Sekunden.</German>
 		</Key>
 		<Key ID="STR_EPOCH_NO_VOICE">
 			<English>No voice in %1. Wait five seconds to continue.</English>
+			<Russian>Никакого голоса в %1. Подождите 5 секунд чтобы продолжить.</Russian>
 			<German>Sprechen im %1 wurde blockiert, warte 5 Sekunden.</German>			
 		</Key>
 		<Key ID="STR_EPOCH_NO_CHANNEL_SWITCH">
 			<English>No switching channels while VON is active. Wait five seconds to continue.</English>
+			<Russian>Нет переключения каналов, когда VON активен. Подождите 5 секунд чтобы продолжить.</Russian>
 			<German>Du kannst nicht zwischen den Kanälen wechseln solange VON aktiviert ist, warte 5 Sekunden.</German>				
 		</Key>
 		<Key ID="str_success_gutted_zombie">
@@ -16758,51 +16838,64 @@
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITOUTFIT">
 			<English>Bandit Outfit</English>
+			<Russian>Бандитская одежда</Russian>
 			<German>Banditen Kleidung</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITCAMO">
 			<English>Bandit Camo</English>
+			<Russian>Бандитский камуфляж</Russian>
 			<German>Banditen Tarn</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITCAMO_DESC">
 			<English>Bandit Camo Outfit</English>
+			<Russian>Бандитская камуфляжная одежда</Russian>
 			<German>Banditen Tarnkleidung</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITGUNNER">
 			<English>Bandit Gunner</English>
+			<Russian>Одежда бандитского стрелка</Russian>
 			<German>Banditen Kanonier</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITGUNNER_DESC">
 			<English>Bandit Gunner Outfit</English>
+			<Russian>Бандитское снаряжение</Russian>
 			<German>Banditen Kanonier Kleidung</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITSNIPER">
 			<English>Bandit Sniper</English>
+			<Russian>Одежда бандитского снайпера</Russian>
 			<German>Banditen Scharfschütze</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITSNIPER_DESC">
 			<English>Bandit Sniper Outfit</English>
+			<Russian>Бандитская снайперская одежда</Russian>
 			<German>Banditen Scharfschützen Kleidung</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITBAKLAVA">
 			<English>Bandit Baklava</English>
+			<Russian>Бандитская Балаклава</Russian>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITBAKLAVA_DESC">
 			<English>Bandit Baklava Outfit</English>
+			<Russian>Бандитская Балаклава</Russian>
 			<German>Banditen Baklava Kleidung</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITMASK">
 			<English>Bandit Mask</English>
+			<Russian>Бандитская Маска</Russian>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITMASK_DESC">
 			<English>Bandit Mask Outfit</English>
+			<Russian>Бандитская Балаклава</Russian>
 			<German>Banditen Kleidung mit Maske</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITHAT">
 			<English>Bandit Hat</English>
+			<Russian>Бандитская Шляпа</Russian>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITHAT_DESC">
 			<English>Bandit Hat with Baklava</English>
+			<Russian>Бандитская Шляпа с Балаклавой</Russian>
 			<German>Banditen Kleidung mit Mütze</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITANNIE">
@@ -16810,6 +16903,7 @@
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITANNIE_DESC">
 			<English>Bandit wrap blue top with brown pants.</English>
+			<Russian>Бандитский наряд с синим верхом и коричневыми брюками.</Russian>
 			<German>Banditen Outfit mit blauem Top und brauner Hose.</German>
 <!--			<Russian>Бандитский костюм с синим верхом и коричневыми брюками.</Russian>	-->
 		</Key>
@@ -16818,6 +16912,7 @@
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_BANDITJANE_DESC">
 			<English>Bandit wrap grey top with brown camo pants.</English>
+			<Russian>Бандитский наряд с синим верхом и камуфляжными брюками.</Russian>
 			<German>Banditen Outfit mit grauem Top und brauner Tarnhose.</German>
 <!--			<Russian>Бандитский костюм с серым верхом и коричневыми камуфляжными брюками.</Russian>	-->
 		</Key>
@@ -16878,12 +16973,12 @@
 		<Key ID="STR_EPOCH_SKINS_TAKISTANIWARLORD">
 			<English>Takistani Warlord</English>
 			<German>Takistan Kriegsherr</German>
-<!--			<Russian>Такистанский командующий</Russian>	-->
+			<Russian>Такистанский командующий</Russian>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_TAKISTANISOLDIER">
 			<English>Takistani Soldier</English>
 			<German>Takistan Soldat</German>
-<!--			<Russian>Такистанский солдат</Russian>	-->
+			<Russian>Такистанский солдат</Russian>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_SPECIALFORCES">
 			<English>Special Forces</English>
@@ -17027,26 +17122,32 @@
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_RUSOLDIER">
 			<English>RU Soldier</English>
+			<Russian>Камуфляж Русского Солдата</Russian>
 			<German>RU Soldat</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_RUOFFICER">
 			<English>RU Officer</English>
+			<Russian>Камуфляж Русского Офицера</Russian>
 			<German>RU Offizier</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_RUCAMO">
 			<English>RU Camo</English>
+			<Russian>Российский Камуфляж</Russian>
 			<German>RU Tarn</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_RUCOMMANDER">
 			<English>RU Commander</English>
+			<Russian>Камуфляж Русского Коммандующего</Russian>
 			<German>RU Kommandant</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_MVDSOLDIER">
 			<English>MVD Soldier</English>
+			<Russian>Камуфляж МВД</Russian>
 			<German>MVD Soldat</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_TERRORISTCAMO">
 			<English>Terrorist Camo</English>
+			<Russian>Камуфляж Террориста</Russian>
 			<German>Terroristen Tarn</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_INSCOMMANDER">
@@ -17066,6 +17167,7 @@
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_DOCTOR">
 			<English>Doctor</English>
+			<Russian>Доктор</Russian>
 			<German>Doktor</German>
 		</Key>
 		<Key ID="STR_EPOCH_SKINS_WORKER1">
@@ -17287,7 +17389,7 @@
 		<Key ID="STR_EPOCH_PROMOTE">
 			<English>Promote</English>
 			<German>Befördern</German>
-<!--			<Russian>Повысить</Russian>	-->
+			<Russian>Повысить</Russian>
 		</Key>
 		<Key ID="STR_EPOCH_DISBAND">
 			<English>Disband</English>
@@ -17374,6 +17476,7 @@
 		</Key>
 		<Key ID="STR_EPOCH_WORKBENCH_NEARBY">
 			<English>Workbench, Wooden Shed or Wood Shack</English>
+			<Russian>Верстак, деревянный сарай или деревянная лачуга</Russian>
 			<German>Werkbank, Holzschuppen oder Holzhütte</German>
 		</Key>		
 		<Key ID="STR_EPOCH_HUMANS_NEARBY">
@@ -17558,18 +17661,22 @@
 		</Key>
 		<Key ID="STR_WOOD_WALL_WRECK">
 			<English>Wood Wall ruins</English>
+			<Russian>Руины деревянных стен</Russian>
 			<German>Holzwandtrümmer</German>
 		</Key>
 		<Key ID="STR_WOOD_FLOOR_WRECK">
 			<English>Wood Floor ruins</English>
+			<Russian>Руины деревянного пола</Russian>
 			<German>Holzbodentrümmer</German>
 		</Key>
 		<Key ID="STR_CINDER_WALL_WRECK">
 			<English>Cinder wall ruins</English>
+			<Russian>Руины шлакобетонных стен</Russian>
 			<German>Betontrümmer</German>
 		</Key>
 		<Key ID="STR_METAL_FLOOR_WRECK">
 			<English>Metal Floor ruins</English>
+			<Russian>Руины металлического пола</Russian>
 			<German>Metallbodentrümmer</German>
 		</Key>
 		<Key ID="STR_EQUIP_KNIFE_ACTION">
@@ -17851,204 +17958,254 @@
 		<!--PET waterbottles -->
 		<Key ID="STR_EQUIP_NAME_WBPET_01">
 			<English>Water Bottle PET (Empty)</English>
+			<Russian>Бутылка для воды ПЭТ (Пустая)</Russian>
 			<German>Wasserflasche PET (Leer)</German>
 		</Key>
 		<Key ID="STR_EQUIP_DESC_WBPET_01">
 			<English>A PET bottle of water that is empty. It might be useful to fill it with water again.</English>
+			<Russian>ПЭТ бутылка с водой, которая пуста. Может быть полезно снова наполнить его водой.</Russian>
 			<German>Eine leere Plastik-Wasserflasche. Sie könnte nützlich sein, um sie wieder mit Wasser zu füllen.</German>
 		</Key>
 		<Key ID="STR_EQUIP_NAME_WBPET_02">
 			<English>Water Bottle PET (Broken)</English>
+			<Russian>Бутылка для воды ПЭТ (Сломанная)</Russian>
 			<German>Wasserflasche PET (Undicht)</German>
 		</Key>
 		<Key ID="STR_EQUIP_DESC_WBPET_02">
 			<English>Broken PET Water Bottle that might be repairable.</English>
+			<Russian>Сломанная ПЭТ-бутылка для воды, которую можно починить.</Russian>
 			<German>Eine undichte Plastik-Wasserflasche, die repariert werden kann.</German>
 		</Key>
 		<Key ID="STR_EQUIP_NAME_WBPET_03">
 			<English>Water Bottle PET</English>
+			<Russian>Бутылка для воды ПЭТ</Russian>
 			<German>Wasserflasche PET</German>
 		</Key>
 		<Key ID="STR_EQUIP_DESC_WBPET_03">
 			<English>A PET bottle of water that has been filled and can be consumed.</English>
+			<Russian>ПЭТ бутылка воды, которая была наполнена и может быть употреблена.</Russian>
 			<German>Eine Plastik-Wasserflasche, gefüllt mit nicht abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EQUIP_NAME_WBPET_04">
 			<English>Water Bottle PET (Boiled)</English>
+			<Russian>Бутылка для воды ПЭТ (Кипяченная)</Russian>
 			<German>Wasserflasche PET (Abgekocht)</German>
 		</Key>
 		<Key ID="STR_EQUIP_DESC_WBPET_04">
 			<English>A PET bottle of boiled water that has been filled and can be consumed.</English>
+			<Russian>ПЭТ бутылка кипяченой воды, которая была заполнена и может быть употреблена.</Russian>
 			<German>Eine Plastik-Wasserflasche gefüllt mit abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EQUIP_NAME_WBPET_05">
 			<English>Herbal Drink (PET)</English>
+			<Russian>Травяной напиток (ПЭТ)</Russian>
 			<German>Kräutertrunk (PET)</German>
 		</Key>
 		<Key ID="STR_EQUIP_DESC_WBPET_05">
 			<English>A drink mixed with herbs that may help heal infection.</English>
+			<Russian>Напиток, смешанный с травами, которые могут помочь излечить инфекцию.</Russian>
 			<German>Ein Getränk aus Kräutern, welches bei Infektionen helfen könnte.</German>
 		</Key>	
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE1OZ">
 			<English>Water Bottle PET (1oz)</English>
+			<Russian>Бутылка для воды ПЭТ (100мл)</Russian>
 			<German>Wasserflasche PET (100ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE1OZ_DESC">
 			<English>Water Bottle PET with 1oz of water.</English>
+			<Russian>Бутылка воды со 100мл воды</Russian>
 			<German>Wasserflasche PET mit 100ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE2OZ">
 			<English>Water Bottle PET (2oz)</English>
+			<Russian>Бутылка для воды (200мл)</Russian>
 			<German>Wasserflasche PET (200ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE2OZ_DESC">
 			<English>Water Bottle PET with 2oz of water.</English>
+			<Russian>Бутылка воды с 200мл воды</Russian>
 			<German>Wasserflasche PET mit 200ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE3OZ">
 			<English>Water Bottle PET (3oz)</English>
+			<Russian>Бутылка для воды (300мл)</Russian>
 			<German>Wasserflasche PET (300ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE3OZ_DESC">
 			<English>Water Bottle PET with 3oz of water.</English>
+			<Russian>Бутылка воды с 300мл воды</Russian>
 			<German>Wasserflasche PET mit 300ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE4OZ">
 			<English>Water Bottle PET (4oz)</English>
+			<Russian>Бутылка для воды (400мл)</Russian>
 			<German>Wasserflasche PET (400ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE4OZ_DESC">
 			<English>Water Bottle PET with 4oz of water.</English>
+			<Russian>Бутылка воды с 400мл воды</Russian>
 			<German>Wasserflasche PET mit 400ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE5OZ">
 			<English>Water Bottle PET (5oz)</English>
+			<Russian>Бутылка для воды (500мл)</Russian>
 			<German>Wasserflasche PET (500ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE5OZ_DESC">
 			<English>Water Bottle PET with 5oz of water.</English>
+			<Russian>Бутылка воды с 500мл воды</Russian>
 			<German>Wasserflasche PET mit 500ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE6OZ">
 			<English>Water Bottle PET (6oz)</English>
+			<Russian>Бутылка для воды (600мл)</Russian>
 			<German>Wasserflasche PET (600ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE6OZ_DESC">
 			<English>Water Bottle PET with 6oz of water.</English>
+			<Russian>Бутылка воды с 600мл воды</Russian>
 			<German>Wasserflasche PET mit 600ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE7OZ">
 			<English>Water Bottle PET (7oz)</English>
+			<Russian>Бутылка для воды (700мл)</Russian>
 			<German>Wasserflasche PET (700ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE7OZ_DESC">
 			<English>Water Bottle PET with 7oz of water.</English>
+			<Russian>Бутылка воды с 700мл воды</Russian>
 			<German>Wasserflasche PET mit 700ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE8OZ">
 			<English>Water Bottle PET (8oz)</English>
+			<Russian>Бутылка для воды (800мл)</Russian>
 			<German>Wasserflasche PET (800ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE8OZ_DESC">
 			<English>Water Bottle PET with 8oz of water.</English>
+			<Russian>Бутылка воды с 800мл воды</Russian>
 			<German>Wasserflasche PET mit 800ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE9OZ">
 			<English>Water Bottle PET (9oz)</English>
+			<Russian>Бутылка для воды (900мл)</Russian>
 			<German>Wasserflasche PET (900ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE9OZ_DESC">
 			<English>Water Bottle PET with 9oz of water.</English>
+			<Russian>Бутылка воды с 900мл воды</Russian>
 			<German>Wasserflasche PET mit 900ml Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE1OZBOILED">
 			<English>Water Bottle PET (Boiled 1oz)</English>
+			<Russian>Бутылка для воды (для кипячения 100мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 100ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE1OZBOILED_DESC">
 			<English>Water Bottle PET with 1oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды со 100мл воды</Russian>
 			<German>Wasserflasche PET mit 100ml abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE2OZBOILED">
 			<English>Water Bottle PET (Boiled 2oz)</English>
+			<Russian>Бутылка для воды (для кипячения 200мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 200ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE2OZBOILED_DESC">
 			<English>Water Bottle PET with 2oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды с 200мл воды</Russian>
 			<German>Wasserflasche PET mit 200ml abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE3OZBOILED">
 			<English>Water Bottle PET (Boiled 3oz)</English>
+			<Russian>Бутылка для воды (для кипячения 300мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 300ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE3OZBOILED_DESC">
 			<English>Water Bottle PET with 3oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды с 300мл воды</Russian>
 			<German>Wasserflasche PET mit 300ml abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE4OZBOILED">
 			<English>Water Bottle PET (Boiled 4oz)</English>
+			<Russian>Бутылка для воды (для кипячения 400мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 400ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE4OZBOILED_DESC">
 			<English>Water Bottle PET with 4oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды с 400мл воды</Russian>
 			<German>Wasserflasche PET mit 400ml abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE5OZBOILED">
 			<English>Water Bottle PET (Boiled 5oz)</English>
+			<Russian>Бутылка для воды (для кипячения 500мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 500ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE5OZBOILED_DESC">
 			<English>Water Bottle PET with 5oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды с 500мл воды</Russian>
 			<German>Wasserflasche PET mit 500ml abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE6OZBOILED">
 			<English>Water Bottle PET (Boiled 6oz)</English>
+			<Russian>Бутылка для воды (для кипячения 600мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 600ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE6OZBOILED_DESC">
 			<English>Water Bottle PET with 6oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды с 600мл воды</Russian>
 			<German>Wasserflasche PET mit 600ml abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE7OZBOILED">
 			<English>Water Bottle PET (Boiled 7oz)</English>
+			<Russian>Бутылка для воды (для кипячения 700мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 700ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE7OZBOILED_DESC">
 			<English>Water Bottle PET with 7oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды с 700мл воды</Russian>
 			<German>Wasserflasche PET mit 700ml abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE8OZBOILED">
 			<English>Water Bottle PET (Boiled 8oz)</English>
+			<Russian>Бутылка для воды (для кипячения 800мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 800ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE8OZBOILED_DESC">
 			<English>Water Bottle PET with 8oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды с 800мл воды</Russian>
 			<German>Wasserflasche PET mit 800ml abgekochtem Wasser.</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE9OZBOILED">
 			<English>Water Bottle PET (Boiled 9oz)</English>
+			<Russian>Бутылка для воды (для кипячения 900мл)</Russian>
 			<German>Wasserflasche PET (Abgek. 900ml)</German>
 		</Key>
 		<Key ID="STR_EPOCH_PET_WATERBOTTLE9OZBOILED_DESC">
 			<English>Water Bottle PET with 9oz of boiled water.</English>
+			<Russian>Бутылка кипяченой воды с 900мл воды</Russian>
 			<German>Wasserflasche PET mit 900ml abgekochtem Wasser.</German>
 		</Key>		
 		
 		<!--dayz mod crash site display names-->
 		<Key ID="STR_EPOCH_CRASHSITE1">
 			<English>Mi-8 Wreck (Military)</English>
+			<Russian>Mi-8 Разбившийся (Военный)</Russian>
 			<German>Mi-8 Wrack (Militär)</German>
 		</Key>
 		<Key ID="STR_EPOCH_CRASHSITE2">
 			<English>Mi-8 Wreck (Civil)</English>
+			<Russian>Mi-8 Разбившийся (Гражданский)</Russian>
 			<German>Mi-8 Wrack (Zivil)</German>
 		</Key>
 		<Key ID="STR_EPOCH_CRASHSITE3">
 			<English>UH-1Y Wreck</English>
+			<Russian>UH-1Y Разбившийся</Russian>
 			<German>UH-1Y Wrack</German>
 		</Key>
 		<Key ID="STR_EPOCH_CRASHSITE4">
 			<English>HC3 Merlin Wreck</English>
+			<Russian>HC3 Merlin Разбившийся</Russian>
 			<German>HC3 Merlin Wrack</German>
 		</Key>		
 		<!-------------------------------------->		
@@ -18065,10 +18222,12 @@
 		</Key>			
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_AIRVEHICLES">
 			<English>Air Vehicles</English>
+			<Russian>Авиа Транскорт</Russian>
 			<German>Luftfahrzeuge</German>
 		</Key>	
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_GROUNDVEHICLES">
 			<English>Ground Vehicles</English>
+			<Russian>Наземный Транскорт</Russian>
 			<German>Bodenfahrzeuge</German>
 		</Key>		
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_WEAPONS">
@@ -18222,13 +18381,16 @@
 		</Key>		
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_PICKUPS">
 			<English>Pick-ups</English>
+			<Russian>Пикапы</Russian>
 			<German>Pickups</German>
 		</Key>	
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_UAZS">
 			<English>UAZs</English>
+			<Russian>УАЗы</Russian>
 		</Key>	
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_SUVS">
 			<English>SUVs</English>
+			<Russian>СУВы</Russian>
 		</Key>	
 		<Key ID="STR_EPOCH_TRADER_CATEGORY_CARGOTRUCKS">
 			<English>Cargo Trucks</English>
@@ -18292,60 +18454,80 @@
 		<!--New Strings 1.0.7-->
 		<Key ID="str_actions_medical_gave_antibiotics">
 			<English>You gave antibiotics to %1</English>
+			<Russian>Вы дали антибиотики %1</Russian>
 		</Key>
 		<Key ID="str_actions_medical_antibiotics_received">
 			<English>%1 has given you Antibiotics</English>
+			<Russian>%1 дал вам Антибиотики</Russian>
 		</Key>
 		<Key ID="str_actions_medical_bandage_self">
 			<English>You have bandaged your wounds</English>
+			<Russian>Вы перевязали свои раны</Russian>
 		</Key>
 		<Key ID="str_actions_medical_sepsisbandage_self">
 			<English>You have bandaged and sanitized your wounds</English>
+			<Russian>Вы перевязали и продезинфицировали свои раны</Russian>
 		</Key>
 		<Key ID="str_actions_medical_gave_bandage">
 			<English>You have bandaged %1</English>
+			<Russian>Вы перевязали %1</Russian>
 		</Key>
 		<Key ID="str_actions_medical_gave_sepsisbandage">
 			<English>You have bandaged and sanitized the wounds of %1</English>
+			<Russian>Вы перевязали и продезинфицировали раны %1</Russian>
 		</Key>
 		<Key ID="str_actions_medical_bandage_received">
 			<English>%1 has bandaged your wounds</English>
+			<Russian>%1 перевязал ваши раны</Russian>
 		</Key>
 		<Key ID="str_actions_medical_sepsisbandage_received">
 			<English>%1 has bandaged and sanitized your wounds</English>
+			<Russian>%1 перевязал и продезинфицировал ваши раны</Russian>
 		</Key>
 		<Key ID="str_actions_medical_general_self">
 			<English>You have given yourself a %1</English>
+			<Russian>Вы дали себе %1</Russian>
 		</Key>
 		<Key ID="str_actions_medical_general_give">
 			<English>You have given a %1 to %2</English>
+			<Russian>Вы дали %1 %2</Russian>
 		</Key>
 		<Key ID="str_actions_medical_08a">
 			<English>Give %1</English>
+			<Russian>Дать %1</Russian>
 		</Key>
 		<Key ID="str_actions_medical_general_received">
 			<English>%1 has given you a %2</English>
+			<Russian>%1 дал вам %2</Russian>
+			
 		</Key>
 		<Key ID="str_actions_medical_painkillers_self">
 			<English>You have taken painkillers</English>
+			<Russian>Вы приняли обезболивающие</Russian>
 		</Key>
 		<Key ID="str_actions_medical_painkillers_give">
 			<English>You have given painkillers to %1</English>
+			<Russian>Вы дали обезболивающее %1</Russian>
 		</Key>
 		<Key ID="str_actions_medical_painkillers_receive">
 			<English>%1 has given you Painkillers</English>
+			<Russian>%1 дал вам обезболивающее</Russian>
 		</Key>
 		<Key ID="str_actions_medical_wipe_self">
 			<English>You have sanitized your wounds</English>
+			<Russian>Вы продезинфицировали свои раны</Russian>
 		</Key>
 		<Key ID="str_actions_medical_04_sepsis">
 			<English>Give Sepsis Bandage</English>
+			<Russian>Дать сепсис бинты</Russian>
 		</Key>
 		<Key ID="str_actions_unload_fail">
 			<English>You are not allowed to unload unconscious crew into the water</English>
+			<Russian>Вы не можете выгрузить бессознательное тело в воду</Russian>
 		</Key>
 		<Key ID="str_actions_medical_transfusion_fail">
 			<English>Wrong blood type used</English>
+			<Russian>Использована неправильная группа крови</Russian>
 		</Key>
 	</Package>
 </Project>
